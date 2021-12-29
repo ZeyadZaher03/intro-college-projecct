@@ -162,6 +162,16 @@ body{
     align-items: center;
 }
 
+.header-contact{
+    background:  linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('../images/pizza_3.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .header-menu_content{
     display: flex;
     flex-direction: column;

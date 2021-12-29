@@ -1,0 +1,65 @@
+.menu
+{
+    text-align: center;
+    color: red;
+    font-style: bold;
+    font-size: 20px;
+    bottom: 50%
+}
+.flex1
+{
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    width : 800px;
+    padding: 20px;
+    margin: 20px auto ;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;  
+    border: aqua;
+    box-shadow: rgb(0, 0, 0)
+    ;
+}
+.menu_img1
+{
+    width: 200px;
+    margin-left: 20px;
+    outline-style: double;
+}
+.menu1
+{
+    color: rgb(219, 4, 69);
+    
+}
+.menu_img2
+{
+    width: 200px;
+    margin-left: 20px;
+    outline-style: double;
+}
+.button{
+outline: none;
+display: block;
+border: 0;
+font size: 15px;
+line-height: 1;
+padding: 16px 30px;
+border-radius: 30px;
+cursor: pointer;
+background-color: red;
+color: #ffffff;
+position:absolute;
+top: 75%;
+left: 47%;
+transform translate (-50,-50);
+
+
+
+}
+.soso{
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    margin: 20px auto;
+    width: 215px;
+    box-shadow:  10px 10px 10px 0px rgb(158, 179, 194);
+}
